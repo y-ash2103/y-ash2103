@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python,C,C++**
 
-- 📫 How to reach me **yasshu077@gmai.com**
+- 📫 How to reach me **bawneyashveer@gmai.com**
 
 - ⚡ Fact **International Rope skipping player (Silver Medalist)**
 
