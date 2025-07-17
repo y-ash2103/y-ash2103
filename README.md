@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCxl7GGxflQoamqaucgrH0IikHkeGrPHycfiCBAN8lU4ES7LEPkhwMOKkctGsQvP9kZXP3J5qN-xVAItkFi0er8kuJs26gVf2kwAjKcl7EeLvBSkwXveqWpWMx_kD8lryE1hmUdyk6HWJCNo_eaJ7GjoyW6UQVEfddVUJWdbrID7p30qxB3p3B22y/s1600/Android%20Devs%20Banner%20.png)
 
 <h1 align="center">Hi 👋, I'm Yashveer Bawne</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate dData analytics from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/@bawneyashveer" target="blank"><img src="https://img.shields.io/twitter/follow/@bawneyashveer?logo=twitter&style=for-the-badge" alt="@bawneyashveer" /></a> </p>
 
-- I'm currently working on **Spam Mail detection**
+- I'm currently working on **Face Detection Project along with Sign Language Detection**
 
-- 🌱 I’m currently learning **Data Science Engineering (DSA)**
+- 🌱 I’m currently learning **Data analytics with ML & AI**
 
-- 💬 Ask me about **Python,C,C++**
+- 💬 Ask me about **Python,ML,Power BI,SQL,Excel**
 
 - 📫 How to reach me **bawneyashveer@gmai.com**
 
